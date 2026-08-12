@@ -1,0 +1,6 @@
+po_number,sku,descricao,qty_pedido,qty_recebido,data_emissao,data_recebimento
+45000201,MAT-1010,Tomate Longa Vida (Kg),1000,1000,2026-08-01,2026-08-03
+45000202,MAT-2020,Manga Palmer (Un),500,420,2026-08-02,2026-08-05
+45000203,MAT-3030,Banana Prata (Cx),200,200,2026-08-03,2026-08-04
+45000204,MAT-4040,Laranja Pera (Saco),800,750,2026-08-04,2026-08-08
+45000205,MAT-5050,Maçã Gala (Cx),150,110,2026-08-05,2026-08-10
